@@ -1,0 +1,136 @@
+.bg-container
+{
+    background-color:white;
+}
+.top-container
+{
+    height:50px;
+    width:100vw;
+    background-color:#040338;
+}
+.head1
+{
+    font-family:"Roboto";
+    font-size:20px;
+    padding:10px;
+    color:white;
+}
+.head2
+{
+    padding-top:10px;
+    color:white;
+    font-family:"Roboto";
+    font-size:18px;
+    padding-left:600px;
+}
+.head3,.head4,.head5,.head6,.head7
+{
+    padding-top:10px;
+    color:white;
+    font-family:"Roboto";
+    font-size:18px;
+    margin-left:10px;
+
+}
+
+.middle-container
+{
+    background-color:#040338;
+    height:360px;
+    width:100vw;
+}
+.img1
+{
+    padding-left:"150px"
+}
+.head1_1
+{
+    
+    font-size:30px;
+}
+.part1
+{
+    padding:20px;
+
+    
+}
+.part2
+{
+   padding-left:100px;
+   padding-right:400px;
+   color:cyan;
+   padding-top:100px;
+   
+}
+.para
+{
+    
+    font-size:25px;
+}
+.card1
+{
+    padding:140px;
+   background-color:white;
+   
+}
+.about,.achieve,.projects,.contact,.skills,.exp
+{
+    padding:20px;
+    color:#040338;
+}
+.head_about
+{
+    font-weight:bold;
+    font-size:35px;
+    font-family:"Roboto";
+}
+.para_about
+{
+    font-size:25px;
+    padding:32px;
+}
+.list1
+{
+    font-size:25px;
+}
+.para_skills
+{
+    padding:10px;
+}
+.head_edu
+{
+    padding:8px;
+}
+
+
+.fa {
+    padding:10px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    margin:10px;
+  }
+  .fa-google {
+    background: #dd4b39;
+    color: white;
+  }
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+.fa-github
+{
+    background:black;
+    color: white;
+}  
+.list_about
+{
+    font-size:22px;
+}
+.list_achieve
+{
+    font-size:25px;
+}
